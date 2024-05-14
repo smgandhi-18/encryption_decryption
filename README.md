@@ -29,5 +29,5 @@ This exercise involves designing an enciphering and deciphering system using pol
 
 ## License
 
-This exercise is provided under an open-source license. See the LICENSE file for details.
+This exercise is provided under an open-source license. See the LICENSE file for details. Provide credits to the author(s).
 
