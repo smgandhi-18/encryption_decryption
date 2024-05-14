@@ -1,4 +1,4 @@
-# Enciphering and Deciphering System Exercise
+# Enciphering and Deciphering System using FPGA
 
 This exercise involves designing an enciphering and deciphering system using polling on the Zybo Z7 board. The system encrypts and decrypts messages using a simple cipher mapping function based on a shift key parameter.
 
